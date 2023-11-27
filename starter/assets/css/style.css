@@ -9,15 +9,15 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #b6d7e7;
     color: #ffffff;
 }
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 50px;
 }
 
 .header h1 .seo {
@@ -42,7 +42,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #a83e3e;
     text-decoration: none;
 }
 
@@ -79,11 +79,11 @@ p {
     margin-right: 20px;
     padding: 20px;
     clear: both;
-    float: right;
+    float: left;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #8ea525;
 }
 
 .benefit-lead {
@@ -148,14 +148,14 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #ad52a9;
     color: #ffffff;
 }
 
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 320px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -196,5 +196,5 @@ p {
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 35px;
 }
